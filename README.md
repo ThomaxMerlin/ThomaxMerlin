@@ -1,6 +1,13 @@
-# 💫 About Me:
-🔭 I’m currently learning and would like to work as a freelance or part-time<br>👯 I’m looking to collaborate on Jr.Software Developer<br>🌱 I’m currently learning Python, AI, Machine Learning and Full-Stack<br>💬 Ask me about<br>⚡ Fun fact
+### Hi There !!! [![](https://visitcount.itsvg.in/api?id=ThomaxMerlin&icon=10&color=4)](https://visitcount.itsvg.in)
+🔭 I’m currently ** learning and would like to work as a freelance or part-time ** <br>
+👯 I’m looking to collaborate on ** Jr.Software Developer ** <br>
+🌱 I’m currently learning ** Python, AI, Machine Learning and Full-Stack ** <br>
+💬 Ask me about **Tech and Personal Development.<br>
+📬 How to reach me: minthukywe2020@gmail.com <br>
+😃 Pronouns: He/Him
+⚡ Fun fact: *I like to write codes and help other person codes.*
 
+# 💫 About Me:
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/706455860548861994) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Min Thu Kywal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Min Thu (Thomas Merlin) Kywal) 
