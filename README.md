@@ -1,5 +1,5 @@
 ### Hi There !!! [![](https://visitcount.itsvg.in/api?id=ThomaxMerlin&icon=10&color=4)](https://visitcount.itsvg.in)
-🔭 I’m currently ** learning and would like to work as a freelance or part-time ** <br>
+🔭 I’m currently ** learning and would like to work as a freelance, remote job ** <br>
 👯 I’m looking to collaborate on ** Jr.Software Developer ** <br>
 🌱 I’m currently learning ** Python, AI, Machine Learning and Full-Stack ** <br>
 💬 Ask me about **Tech and Personal Development.<br>
